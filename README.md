@@ -61,6 +61,7 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
 ## program 
+
 ```
 
 import random
@@ -111,13 +112,15 @@ def hill_climbing(target):
 
 target = input("Enter the target string: ")
 hill_climbing(target)
+
 ```
 
 ## string 
  Artificial Intelligence
+
 ## output
 
-![alt text](image.png)
+![alt text](<Screenshot 2026-11-05 090535.png>)
 
 ## Result
 
